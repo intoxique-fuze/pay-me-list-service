@@ -1,0 +1,161 @@
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\csc.exe
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CSharp.Core.targets
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\System.Collections.Immutable.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\System.Reflection.Metadata.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\vbc.exe
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\VBCSCompiler.exe
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\roslyn\VBCSCompiler.exe.config
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\ListPaymentService.dll.config
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\ListPaymentService.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\ListPaymentService.pdb
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Antlr3.Runtime.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.SqlServer.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Core.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Owin.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Cookies.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Facebook.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Google.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.OAuth.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Twitter.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Web.Infrastructure.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Newtonsoft.Json.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Owin.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Net.Http.Formatting.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Helpers.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.Owin.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.WebHost.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Mvc.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Optimization.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Razor.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Deployment.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Razor.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\WebGrease.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Newtonsoft.Json.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Net.Http.Formatting.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Helpers.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.WebHost.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Mvc.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Optimization.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Razor.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Deployment.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Razor.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Antlr3.Runtime.pdb
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.SqlServer.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Core.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Owin.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Facebook.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Cookies.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.OAuth.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Google.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Twitter.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.Owin.xml
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\obj\Debug\ListPaymentService.csprojResolveAssemblyReference.cache
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\obj\Debug\ListPaymentService.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\obj\Debug\ListPaymentService.pdb
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\Swashbuckle.Core.dll
+\\danskenet.net\homeshare\home024\ba3787\documents\visual studio 2015\Projects\ListPaymentService\ListPaymentService\bin\WebActivatorEx.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\csc.exe
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\vbc.exe
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\VBCSCompiler.exe
+C:\Projects\ListPaymentService\ListPaymentService\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\ListPaymentService\ListPaymentService\bin\ListPaymentService.dll.config
+C:\Projects\ListPaymentService\ListPaymentService\bin\ListPaymentService.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\ListPaymentService.pdb
+C:\Projects\ListPaymentService\ListPaymentService\bin\Antlr3.Runtime.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.SqlServer.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Newtonsoft.Json.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Owin.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Swashbuckle.Core.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Net.Http.Formatting.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Cors.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Helpers.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.Cors.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.Owin.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.WebHost.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Mvc.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Optimization.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Razor.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Razor.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\WebActivatorEx.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\WebGrease.dll
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.Cors.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Newtonsoft.Json.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Net.Http.Formatting.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Helpers.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.WebHost.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Mvc.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Optimization.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Razor.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.WebPages.Razor.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Antlr3.Runtime.pdb
+C:\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\EntityFramework.SqlServer.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\ListPaymentService\ListPaymentService\bin\System.Web.Http.Owin.xml
+C:\Projects\ListPaymentService\ListPaymentService\obj\Debug\ListPaymentService.csprojResolveAssemblyReference.cache
+C:\Projects\ListPaymentService\ListPaymentService\obj\Debug\ListPaymentService.dll
+C:\Projects\ListPaymentService\ListPaymentService\obj\Debug\ListPaymentService.pdb
